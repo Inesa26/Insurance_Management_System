@@ -1,0 +1,18 @@
+Policy Information:
+
+Policy number: 2000000002
+Insured person: 
+CustomerId: 1,
+Idnp: 2001345821342,
+Name: Alina,
+Surname: Bulan,
+Birthday: 29.08.1994,
+Address: Mircea cel Batran 28/1 ap.15,
+Phone Number: +37379956852
+Start date: 01.05.2023
+End date: 20.05.2023
+Destination: WORLD
+Insurance sum: 60000 EUR
+Premium amount: 19,8 EUR
+Agent: 10001
+

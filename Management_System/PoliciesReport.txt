@@ -1,0 +1,56 @@
+	List of Policies:
+
+Policy Information:
+
+Policy number: 2000000001
+Insured person: 
+CustomerId: 1,
+Idnp: 2001345821342,
+Name: Alina,
+Surname: Bulan,
+Birthday: 29.08.1994,
+Address: Mircea cel Batran 28/1 ap.15,
+Phone Number: +37379956852
+Start date: 11.04.2023
+End date: 26.04.2023
+Destination: EUROPE
+Insurance sum: 30000 EUR
+Premium amount: 7,52 EUR
+Agent: 10001
+
+Policy Information:
+
+Policy number: 2000000002
+Insured person: 
+CustomerId: 1,
+Idnp: 2001345821342,
+Name: Alina,
+Surname: Bulan,
+Birthday: 29.08.1994,
+Address: Mircea cel Batran 28/1 ap.15,
+Phone Number: +37379956852
+Start date: 01.05.2023
+End date: 20.05.2023
+Destination: WORLD
+Insurance sum: 60000 EUR
+Premium amount: 19,8 EUR
+Agent: 10001
+
+Policy Information:
+
+Policy number: 2000000003
+Insured person: 
+CustomerId: 3,
+Idnp: 2004958489632,
+Name: Veaceslav,
+Surname: Focsa,
+Birthday: 27.09.1995,
+Address: Grigore Vieru 206 ap.15,
+Phone Number: +37379254863
+Start date: 12.07.2023
+End date: 15.07.2023
+Destination: CSI
+Insurance sum: 10000 EUR
+Premium amount: 1,24 EUR
+Agent: 10003
+
